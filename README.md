@@ -4,7 +4,7 @@
 <img width="840" height="696" alt="image" src="https://github.com/user-attachments/assets/9040e2e7-ed8d-4ab0-8581-5b4b22ec263c" />
 <img width="841" height="705" alt="image" src="https://github.com/user-attachments/assets/f63241b5-7c30-4005-86c8-a6fbc4ab43ec" />
 <img width="844" height="705" alt="image" src="https://github.com/user-attachments/assets/fdcc63c1-8a04-4a14-ba50-b5d72cf35a14" />
-<img width="834" height="691" alt="image" src="https://github.com/user-attachments/assets/47eb29c7-df10-4a49-9d0c-2d4d5ab23db6" />
+<img width="1231" height="831" alt="image" src="https://github.com/user-attachments/assets/c1bab5a9-0552-47fb-949e-ecab6eaace75" />
 <img width="1799" height="704" alt="image" src="https://github.com/user-attachments/assets/a92df73d-3eca-4852-bae2-f35778bde826" />
 
 <img width="356" height="595" alt="image" src="https://github.com/user-attachments/assets/d1ecc650-bb53-4927-a274-f530d22a178e" />
